@@ -657,7 +657,7 @@ export default function FuelCellReport() {
 
       <footer>
         <div className="container footer-inner">
-          <span>Digital Twin-Based Fuel Cell Utility Management Platform </span>
+          <span>Digital Twin-Based Fuel Cell Utility Management Platform</span>
           <span>
             {C.software} · {C.propertyPackage} basis
           </span>
